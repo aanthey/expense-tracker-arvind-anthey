@@ -1,80 +1,33 @@
 # Expense Tracker
 
 ## Overview
-[TODO: Write 2-3 sentences describing what your app does and why it's useful]
+
 An app that helps people track their expenses, and manage spending habits. 
 
 ## Problem Statement
-[TODO: Describe the problem your app solves. Consider:]
-- What frustrates people about tracking expenses?
-- 
-- Why do existing solutions fall short?
-- 
-- What specific pain points will you address?
-- 
+
+- A frustrating part about tracking expenses is how tedious it can be.
+
+- Current solutions to tracking expenses fall short because they require lots of organization and work, things like saving receipts or constantly watching your bank statements, etc.
+
+- Taking the tedious nature out of expense tracking, and streamlining it in a way where a user can get all their information about their expenses and set specific goals they want to achieve.
 
 ## Target Users
-[TODO: List 3-4 types of users who would benefit from your app]
+
 Parents, Students, Young Adults
+
 ## Core Features (MVP)
-[TODO: List 5-6 essential features for version 1]
+
+- [ Connecting to your bank to track card spending habits ] 
+- [ Setting custom goals that you want to achieve financially (e.g. I want to spend less than $4,000 every month) ] 
+- [ A.I. chatbox assistant to help with budgeting advice ] 
+- [ Budgeting streaks (e.g. snapchat streaks but instead of sending snaps it would be for how many months/days you've reached your budget goal) ] 
 - [  ] 
-- [ ] 
-- [ ] 
-- [ ] 
-- [ ] 
-
-## Technical Stack
-[TODO: Fill in this table with your technology choices and reasoning]
-| Layer | Technology | Justification |
-|-------|------------|---------------|
-| Frontend | | |
-| Styling | | |
-| Type Safety | | |
-| State | | |
-| Data | | |
-| Deployment | | |
-
-## Project Timeline
-[TODO: Plan what you'll build each week]
-- **Week 1**: 
-- **Week 2**: 
-- **Week 3**: 
-- **Week 4**: 
-- **Week 5**: 
-- **Week 6**: 
-- **Week 7**: 
-- **Week 8**: 
-- **Week 9**: 
-- **Week 10**: 
-
-## Getting Started
-[TODO: Write installation and setup instructions]
-
-## Development Process
-[TODO: Describe your development workflow]
-
-## Architecture Decisions
-See [docs/decisions](./docs/decisions) for detailed technical decisions.
-
-## Contributing
-[TODO: How can others contribute or give feedback?]
-
-## Learning Goals
-[TODO: List 4-5 things you want to learn from this project]
-- [ ] 
-- [ ] 
-- [ ] 
-- [ ] 
-- [ ] 
 
 ## Author
 Arvind Anthey 
-- GitHub: github.com/aanthey
-- LinkedIn: [TODO: Your LinkedIn profile]
+- GitHub: https://github.com/aanthey
+- LinkedIn: https://www.linkedin.com/in/arvind-anthey-a4bb39145/
 
 ## License
-[TODO: Choose a license - MIT is common for open source]
-
-## Acknowledgments
-[TODO: Credit any resources, tutorials, or people who helped]
+MIT License
