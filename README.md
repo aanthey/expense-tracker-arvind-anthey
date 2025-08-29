@@ -22,7 +22,7 @@ Parents, Students, Young Adults
 - [ Setting custom goals that you want to achieve financially (e.g. I want to spend less than $4,000 every month) ] 
 - [ A.I. chatbox assistant to help with budgeting advice ] 
 - [ Budgeting streaks (e.g. snapchat streaks but instead of sending snaps it would be for how many months/days you've reached your budget goal) ] 
-- [  ] 
+- [ Sleek modern dashboard that is easy to navigate and responsive ] 
 
 ## Author
 Arvind Anthey 
