@@ -14,7 +14,7 @@ An app that helps people track their expenses, and manage spending habits.
 
 ## Target Users
 
-Parents, Students, Young Adults
+Parents, Students, Young Adults, People who have trouble tracking expenses
 
 ## Core Features (MVP)
 
